@@ -1,6 +1,6 @@
 # Portable PHP password hashing framework. (PHPass)
 
-Version 0.5 / genuine.
+![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/rosegaar/phpass.svg?label=version) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Written by Solar Designer <solar at openwall.com> in 2004-2006 and placed in
 the public domain.  Revised in subsequent years, still public domain.
