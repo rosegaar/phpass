@@ -1,0 +1,20 @@
+{
+    "name": "rosegaar/phpass",
+    "description": "Portable PHP password hashing framework",
+    "type": "framework",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Gydo Makkinga",
+            "email": "gydo@rosegaar.nl"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Rosegaar\\PHPass\\": "src"
+        }
+    },
+    "require": {}
+}
