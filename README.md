@@ -18,6 +18,8 @@ composer require rosegaar/phpass
 # Usage
 
 ```php
+use Rosegaar\PHPass\PHPass;
+
 $hasher = new PHPass(8, true);
 $password = $hasher->HashPassword('password');
 ```
